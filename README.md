@@ -33,7 +33,7 @@ Feel free to customize the resume to meet your specific needs. You can update th
 
 Desktop Version
 
-![Screenshot 2023-11-16 150355](https://github.com/josecobi/resume/assets/58313777/b474c417-4c04-4cb9-a65b-d6ec13a1b7b1)
+![Screenshot 2023-11-16 162034](https://github.com/josecobi/resume/assets/58313777/988b25ae-c6b0-491a-a49e-b05046857f07)
 
 ![Screenshot 2023-11-16 150412](https://github.com/josecobi/resume/assets/58313777/aa570089-c07f-4463-b3bf-0ec939383ee0)
 
