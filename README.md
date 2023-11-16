@@ -28,3 +28,23 @@ Feel free to customize the resume to meet your specific needs. You can update th
 ## Credits
 1. Icons from the Header and Skills sections are sourced from https://icons8.com/
 2. Color palette was obtained from https://coolors.co/
+
+## Screenshots
+
+Desktop Version
+
+![Screenshot 2023-11-16 150355](https://github.com/josecobi/resume/assets/58313777/b474c417-4c04-4cb9-a65b-d6ec13a1b7b1)
+
+![Screenshot 2023-11-16 150412](https://github.com/josecobi/resume/assets/58313777/aa570089-c07f-4463-b3bf-0ec939383ee0)
+
+![Screenshot 2023-11-16 150426](https://github.com/josecobi/resume/assets/58313777/fd2515b7-7751-4372-9add-33fa9fe53db6)
+
+
+Mobile Version
+
+![Screenshot 2023-11-16 150503](https://github.com/josecobi/resume/assets/58313777/b1664d49-d22d-4365-910a-f1dfc488690c)
+
+![Screenshot 2023-11-16 150514](https://github.com/josecobi/resume/assets/58313777/4ce6ea66-29c4-4dc5-ae54-2c00025316c5)
+
+![Screenshot 2023-11-16 150525](https://github.com/josecobi/resume/assets/58313777/4c0a8702-752f-4699-9ba3-25a1cbc730f9)
+
