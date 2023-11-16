@@ -1,0 +1,208 @@
+body {
+    background-color: rgb(0, 0, 0);
+    color: rgb(215, 214, 214);
+    font-family: sans-serif, serif;
+    margin: 0 0 0 0;   
+}
+
+main {
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+
+
+/*------------------------------------ Header Section - My info --------------------------------------------*/
+.header-section {
+
+    background-color: rgb(30, 30, 30);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 5rem;
+    row-gap: 3rem;
+    padding: 2rem;    
+}
+
+#profile-pic {
+    max-width: 150px;
+    border-radius: 100%;
+  
+
+}
+
+.name {
+    text-align: center;
+}
+
+.my-info-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    font-size: 0.9rem;
+}
+
+.my-info-container a {
+    color: white;
+}
+.my-info-container a:hover {
+    color: grey;
+}
+
+.info-boxes {
+    display: flex;
+    align-items: center;
+}
+
+.info-icon {
+    width: 1rem;
+    height: 1rem;
+    margin-right: 0.25rem;
+    
+}
+
+
+
+
+
+/*------------------------------------ Sections --------------------------------------------*/
+section { 
+    border-bottom: 10px solid  black;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-color: rgb(30, 30, 30);
+}
+
+.text-section {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.section-headers {
+    width: 100%;
+    margin: 0;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    text-align: center;
+    color: black;
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+}
+
+.text-section p {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+#summary-header {
+    background-color: #EF476F;
+}
+
+
+
+
+/*------------------------------------ Skills and Project container --------------------------------------------*/
+
+
+
+.skills-projects-container {
+
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+/*-------------------------- Skills ---------------------*/
+.skills-section {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 0;
+    width: 29%;
+    margin-right: auto;
+
+    
+   
+}
+
+#skills-header {
+    background-color: #daa520;
+}
+
+.skills-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    color: #daa520;
+    padding-top: 1rem;
+}
+
+.skill-box {
+    justify-content: center;
+    text-align: center;
+}
+
+.skill-text {
+  padding-top: 0;  
+}
+
+
+
+
+/*---------------------- Projects -----------------*/
+
+.projects-section {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 0; 
+    width: 70%;
+}
+
+#projects-header {
+    background-color: #50b447;
+}
+
+.projects-container h4 {
+    color: #50b447;
+    text-align: left;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+
+
+
+
+
+/*------------------------------------------- Experience ------------------------------------------------*/
+#experience-header {
+    background-color: #06D6A0;
+}
+
+.experiences {
+    padding-left: 2rem;
+}
+
+.experiences h3 {
+    color: #06D6A0;
+    background-color: rgb(52, 51, 51) ;
+    width: 97%;
+}
+
+
+
+
+
+/*---------------------------------------------- Media queries --------------------------------------------------*/
+
+@media (max-width: 768px) {
+    .skills-section, .projects-section {
+      width: 100%; 
+    }
+  }
